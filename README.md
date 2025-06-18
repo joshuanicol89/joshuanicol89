@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Joshua Nicol
 
-<!--
-**joshuanicol89/joshuanicol89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Full Stack Developer with 15+ years of experience building scalable web, mobile, and cloud solutions using .NET, JavaScript, and modern frameworks. 
+I specialize in both frontend and backend development, cloud-native architecture, and AI-powered applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Frontend:**  
+React, Angular, Next.js, Blazor, WPF, HTML5, CSS3, JavaScript, TypeScript, Redux, jQuery, ASP.NET MVC
+
+**Backend:**  
+.NET, ASP.NET Core, Node.js, Express.js, C#, Python
+
+**Mobile/Desktop:**  
+.NET MAUI, WPF
+
+**Databases:**  
+SQL Server, PostgreSQL, MySQL, MongoDB, DynamoDB, MariaDB, NoSQL
+
+**Cloud & DevOps:**  
+Azure, AWS, Google Cloud AI, Docker, Kubernetes, Amazon EKS, Azure DevOps, CI/CD, Serverless Framework
+
+**AI/ML:**  
+OpenAI, TensorFlow, PyTorch, NLP, Deep Learning, Computer Vision, AI Automation
+
+**Testing:**  
+Jest, React Testing Library, Snapshot Testing
+
+**Payments & APIs:**  
+Stripe, PayPal, Square, Braintree, Swagger, REST APIs, Webhooks
+
+---
+
+## 🔧 Projects I've Worked On
+
+- 🚪 **Physical Security SaaS** – Developed enterprise-scale tools at Verkada, improving platform performance by 30% and cutting resolution time with Dynatrace & Splunk.
+- 💳 **Digital Banking App** – Built secure, multi-tenant banking features at BairesDev, serving 25K+ users with PCI-compliant architecture.
+- 🏘️ **Real Estate Platform** – Delivered scalable real estate SaaS with role-based access, SM feed analysis, and intuitive dashboards at Inoxoft.
+- 💡 **Social Media AI SaaS** – Built AI-driven analytics platform for fashion/beauty clients; integrated .NET Core, multi-tenancy, and React.
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out on  
+📧 Email:
+🌐 Portfolio: 
+🔗 LinkedIn: 
+
+---
+
+> 🚀 Always building. Always learning. Let’s create something great together.
