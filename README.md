@@ -9,7 +9,11 @@ I specialize in both frontend and backend development, cloud-native architecture
 
 **Frontend:**  
 React, Angular, Next.js, Blazor, WPF, HTML5, CSS3, JavaScript, TypeScript, Redux, jQuery, ASP.NET MVC
-
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 **Backend:**  
 .NET, ASP.NET Core, Node.js, Express.js, C#, Python
 
