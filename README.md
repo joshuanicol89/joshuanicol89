@@ -42,6 +42,13 @@ Stripe, PayPal, Square, Braintree, Swagger, REST APIs, Webhooks
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical"/>
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 Feel free to reach out on  
