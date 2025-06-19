@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="joshua_nicol_banner.gif" alt="Joshua Nicol Banner" />
+</p>
+
 # 👋 Hi, I'm Joshua Nicol
 
 I'm a Senior Full Stack Developer with 15+ years of experience building scalable web, mobile, and cloud solutions using .NET, JavaScript, and modern frameworks. 
